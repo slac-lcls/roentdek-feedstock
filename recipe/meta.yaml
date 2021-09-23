@@ -7,7 +7,7 @@ package:
 
 source:
   url: ./hexanode-proxy-{{ version }}.tar.gz 
-  sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  sha256: 8d88cf4edaddd6ff8befabd916a49e0ac884b2dccd318f6c36953647c30b0506
 
 build:
   skip: True  # [win or osx]
